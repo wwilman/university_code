@@ -1,0 +1,25 @@
+Wydajność mleczna z pełnej 305-dniowej laktacji w kilogramach
+
+Model osobniczy:
+y = Xβ + Za + e,
+,gdzie:
+y jest wektorem wydajności mlecznych - (270 × 1)
+X jest macierzą wystąpień efektów stałych - (270 × 4)
+β jest wektorem efektów stałych - (4 × 1)
+Z jest macierzą efektów losowych - (270 × 300)
+a jest wektorem efektów losowych - (300 × 1)
+e jest wektorem efektów specyficznych - (300 × 1)
+
+Elementy kodu mają natomiast następujące wielkości:
+Macierz spokrewnień - (300 x 300)
+TrX – transponowana macierz X (4 x 270)
+TrZ – transponowana macierz Z (300 x 270)
+XtX – X razy transponowana macierz X (4 x 4)
+XtZ – X razy transponowana macierz Z (4 x 300)
+ZXt - Z razy transponowana macierz X (300 x 4)
+ZtZ - Z razy transponowana macierz Z (300 x 300)
+XtY – Y razy transponowana macierz X (4 x 1)
+ZtY – Y transponowana macierz Z (300 x 1)
+ZtZ + A −1 σ^2e/σ^2a - (300 x 300)
+L - lewa strona równania (304 x 304)
+P – prawa strona równania (304 x 1)
