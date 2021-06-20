@@ -1,0 +1,8 @@
+Dane:
+Wpływ polim na parkinsona (polimorfizmy bsmI,apaI,fokI,apaI)
+
+Analiza:
+1. Publikacje z bazy danych (pubmed, reaserchgate i google scholar) by znaleźć artykuły dotyczące roli polimorfizmów w różnych populacjach w chorobie Parkinsona 
+2. Walidacja artykułów do metaanalizy (Analiza NOS), kierując się instrukcją:  http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp 
+3. Stworzenie Prisma Guidelines, kierując się instrukcją: http://www.prisma-statement.org/PRISMAStatement/Checklist 
+4. Metaanaliza, kierując się instrukcją: https://www.uniklinik-freiburg.de/imbi-en/studies-and-teaching/meta-analysis-with-r/r-packages.html
