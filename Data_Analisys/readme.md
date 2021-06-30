@@ -17,7 +17,7 @@ Conclusions:
 Such data with bias are realy hard to deal with, unfortunatelly variables do not describe genotype well. My way of completing project was not the best, but best for me at the time (2019/2020) as my first ML usage. If you have any questions or your own conclusions - contact me!
 
 References:
-Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media
-https://morioh.com/p/134b77787d2a 
-https://www.scipy.org/ 
-https://scikit-learn.org/stable/ 
+* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media
+* https://morioh.com/p/134b77787d2a 
+* https://www.scipy.org/ 
+* https://scikit-learn.org/stable/ 
